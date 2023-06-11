@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Emin Ulusal</h1>
 <h3 align="center">A passionate Android Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **MoviesFun**
+- 🔭 I’m currently working on **MovieScope**
 
 - 🌱 I’m currently learning **modern Android architectures.**
 
